@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RootChecking</string>
+    <string name="check">Check</string>
+    <string name="text1">ROOTED!</string>
+    <string name="text2">NOT ROOTED!</string>
+</resources>
